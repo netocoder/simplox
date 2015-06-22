@@ -1,0 +1,1 @@
+We are trying to bridge a gap between various endpoints in the supply chain system where lack of a common work ground creates numerous difficulties in stages from development and delivery of goods. A simple accounting and logistics system makes it easy to use and understand.
